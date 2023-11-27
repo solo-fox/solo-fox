@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Abdelrahman Müller, a cybersecurity enthusiast based in Germany 🇩🇪
 
-Welcome to my digital space! 🌐 Fun fact: I once encountered a security challenge with my previous accounts, leading to a self-hack and accidental deletion. 😅 As a cybersecurity enthusiast, navigating through such experiences sharpens my skills in safeguarding digital spaces.
+Welcome to my digital space! 🌐
+
+> Fun fact: I once encountered a security challenge with my previous accounts, leading to a self-hack and accidental deletion. 😅 As a cybersecurity enthusiast, navigating through such experiences sharpens my skills in safeguarding digital spaces. Donot give your fu*** github keys for any one including you girlfriend!
 
 ## Skills & Expertise 🔒
 - HTML
