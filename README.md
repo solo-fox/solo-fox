@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Abdelrahman Müller, a cybersecurity enthusiast based in Germany 🇩🇪
+# Hi there! 👋 I'm Abdelrahman, a cybersecurity enthusiast based in Germany 🇩🇪
 
 Welcome to my digital space! 🌐
 
@@ -21,7 +21,7 @@ Welcome to my digital space! 🌐
 - Incident Response
 
 ## What I'm up to 🛡️
-Currently, I'm immersed in crafting a high-performance Database Engine using Rust 🦀. Building efficient and robust solutions is my passion. Excited about the journey of data management and optimization! Constantly exploring ways to enhance digital security, I'm committed to making the online world a safer place.
+Currently, I'm immersed in crafting a high-performance Database Engine using Rust 🦀. Building efficient and robust solutions is my passion. Excited about the journey of data management and optimization! Constantly exploring ways to enhance digital security, I'm committed to making the online world a safer place. I am currently working on @square-db
 
 ## Let's Connect! 🤝
 Feel free to explore my repositories and reach out. Whether it's coding adventures, cybersecurity discussions, or collaborations, I'm always up for it. Let's keep the digital landscape secure and exciting together!
