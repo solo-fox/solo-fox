@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on `@square-db`.
 
-- 🌱 I’m currently learning `Typescript`
+- 🌱 I’m currently learning `C` and `Algorithms`
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
