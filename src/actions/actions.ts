@@ -3,7 +3,7 @@ import { DataResult } from "@/lib/types";
 import { Project } from "@/lib/types";
 
 export const getProjects = async (): Promise<DataResult> => {
-  const response = await fetch(`https://solofox.vercel.app/projects.json`)
+  const response = await fetch("https://solofox.vercel.app/projects.json")
     return {
       data: null,
       isError: true,
@@ -20,7 +20,7 @@ export const getProjects = async (): Promise<DataResult> => {
 }
 
 export const getProjectById = async (id: number): Promise<DataResult> => {
-  const response = await fetch(`https://solofox.vercel.app/projects.json`);
+  const response = await fetch("https://solofox.vercel.app/projects.json");
   if (!response.ok) {
     return {
       data: null,
