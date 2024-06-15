@@ -1,0 +1,124 @@
+[
+  {
+    "id" : 1,
+    "name": "Brainwave",
+    "type" : "Design only",
+    "github": "https://github.com/solo-fox/brainwave/",
+    "url" : "https://brainwave-solofox.vercel.app/",
+    "description" : "Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.",
+    "imagePreviewUrl": "https://raw.githubusercontent.com/solo-fox/brainwave/main/screenshots/14a.jpg",
+    "screenshots" : [
+      "https://raw.githubusercontent.com/solo-fox/brainwave/main/screenshots/1.jpg",
+      "https://raw.githubusercontent.com/solo-fox/brainwave/main/screenshots/2.jpg",
+      "https://raw.githubusercontent.com/solo-fox/brainwave/main/screenshots/3.jpg",
+      "https://raw.githubusercontent.com/solo-fox/brainwave/main/screenshots/4.jpg",
+      "https://raw.githubusercontent.com/solo-fox/brainwave/main/screenshots/5.jpg",
+      "https://raw.githubusercontent.com/solo-fox/brainwave/main/screenshots/6.jpg",
+      "https://raw.githubusercontent.com/solo-fox/brainwave/main/screenshots/7.jpg",
+      "https://raw.githubusercontent.com/solo-fox/brainwave/main/screenshots/9.jpg",
+      "https://raw.githubusercontent.com/solo-fox/brainwave/main/screenshots/10.jpg"
+    ],
+    "techStack" : [
+      "React",
+      "Tailwindcss",
+      "vite"
+    ]
+  },
+  {
+    "id" : 2,
+    "name": "Travel App",
+    "type" : "Design only",
+    "github": "https://github.com/solo-fox/Travel/",
+    "url" : "https://travel-solofox.vercel.app/",
+    "description" : "Travel App - Built with Next.js, TailwindCSS, and TypeScript, this landing page not only looks great but also serves as a hands-on project to reinforce one's understanding of these technologies.",
+    "imagePreviewUrl": "https://raw.githubusercontent.com/solo-fox/Travel/main/screenshots/7.jpg",
+    "screenshots" : [
+      "https://raw.githubusercontent.com/solo-fox/Travel/main/screenshots/2.jpg",
+      "https://raw.githubusercontent.com/solo-fox/Travel/main/screenshots/3.jpg",
+      "https://raw.githubusercontent.com/solo-fox/Travel/main/screenshots/4.jpg",
+      "https://raw.githubusercontent.com/solo-fox/Travel/main/screenshots/5.jpg",
+      "https://raw.githubusercontent.com/solo-fox/Travel/main/screenshots/6.jpg",
+      "https://raw.githubusercontent.com/solo-fox/Travel/main/screenshots/7.jpg"
+    ],
+    "techStack" : [
+      "React",
+      "Tailwindcss",
+      "Next.js"
+    ]
+  },
+  {
+    "id" : 3,
+    "name": "Homyz",
+    "type" : "Design only",
+    "github": "https://github.com/solo-fox/Homyz/",
+    "url" : "https://brainwave-solofox.vercel.app/",
+    "imagePreviewUrl": "https://raw.githubusercontent.com/solo-fox/Homyz/main/screenshots/s5.jpeg",
+    "description" : " Homyz - a stunning Real Estate website using React, framer motion and vite",
+    "screenshots" : [
+      "https://raw.githubusercontent.com/solo-fox/Homyz/main/screenshots/s1.jpeg",
+      "https://raw.githubusercontent.com/solo-fox/Homyz/main/screenshots/s2.jpeg",
+      "https://raw.githubusercontent.com/solo-fox/Homyz/main/screenshots/s3.jpeg",
+      "https://raw.githubusercontent.com/solo-fox/Homyz/main/screenshots/s4.jpeg",
+      "https://raw.githubusercontent.com/solo-fox/Homyz/main/screenshots/s5.jpeg"
+    ],
+    "techStack" : [
+      "React",
+      "vite",
+      "Framer Motion"
+    ]
+  },
+  {
+    "id" : 4,
+    "name": "Yoom",
+    "type" : "Fullstack",
+    "github": "https://github.com/solo-fox/zoom-clone/",
+    "url" : "https://yoomcall.vercel.app/",
+    "description" : "Yoom - Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.",
+    "imagePreviewUrl": "https://raw.githubusercontent.com/solo-fox/zoom-clone/main/screenshots/12.jpg",
+    "screenshots" : [
+      "https://raw.githubusercontent.com/solo-fox/zoom-clone/main/screenshots/1.jpg",
+      "https://raw.githubusercontent.com/solo-fox/zoom-clone/main/screenshots/2.jpg",
+      "https://raw.githubusercontent.com/solo-fox/zoom-clone/main/screenshots/3.jpg",
+      "https://raw.githubusercontent.com/solo-fox/zoom-clone/main/screenshots/4.jpg",
+      "https://raw.githubusercontent.com/solo-fox/zoom-clone/main/screenshots/5.jpg",
+      "https://raw.githubusercontent.com/solo-fox/zoom-clone/main/screenshots/6.jpg",
+      "https://raw.githubusercontent.com/solo-fox/zoom-clone/main/screenshots/7.jpg",
+      "https://raw.githubusercontent.com/solo-fox/zoom-clone/main/screenshots/9.jpg",
+      "https://raw.githubusercontent.com/solo-fox/zoom-clone/main/screenshots/10.jpg"
+    ],
+    "techStack" : [
+      "React",
+      "Tailwindcss",
+      "Next.js",
+      "Clerk",
+      "Shadcn",
+      "getstream"
+    ]
+  },
+  {
+    "id" : 5,
+    "name": "f. Blog",
+    "type" : "Fullstack",
+    "github": "https://github.com/solo-fox/fusionblog/",
+    "url" : "https://fusionblog.vercel.app/",
+    "description" : "f. Blog is a full-featured blog site built using React, Tailwind CSS, Styled Components, Firestore, and Firebase Authentication. This project aims to provide users with a seamless and intuitive platform for creating, sharing, and exploring blog content.",
+    "imagePreviewUrl": "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s15.jpg",
+    "screenshots" : [
+      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s1.jpg",
+      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s2.jpg",
+      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s3.jpg",
+      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s4.jpg",
+      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s5.jpg",
+      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s6.jpg",
+      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s7.jpg",
+      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s9.jpg",
+      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s10.jpg"
+    ],
+    "techStack" : [
+      "React",
+      "Tailwindcss",
+      "Next.Js",
+      "Styled Components"
+    ]
+  }
+]
