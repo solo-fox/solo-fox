@@ -4,6 +4,7 @@ import { Project } from "@/lib/types";
 
 export const getProjects = async (): Promise<DataResult> => {
   const response = await fetch("https://solofox.vercel.app/projects.json")
+  if (!response.ok) {
     return {
       data: null,
       isError: true,
