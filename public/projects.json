@@ -97,7 +97,7 @@
     "type" : "Fullstack",
     "github": "https://github.com/solo-fox/LiveDocs/",
     "description" : "Livedocs - Built with Next.js to handle the user interface, Liveblocks for real-time features and styled with TailwindCSS, LiveDocs is a clone of Goole Docs.",
-    "imagePreviewUrl": "https://raw.githubusercontent.com/solo-fox/LiveDocs/main/screenshots/1.jpg",
+    "imagePreviewUrl": "https://raw.githubusercontent.com/solo-fox/LiveDocs/main/screenshots/1.jpeg",
     "screenshots" : [
       "https://raw.githubusercontent.com/solo-fox/LiveDocs/main/screenshots/1.jpeg",
       "https://raw.githubusercontent.com/solo-fox/LiveDocs/main/screenshots/2.jpeg",
