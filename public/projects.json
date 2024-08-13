@@ -4,7 +4,6 @@
     "name": "Brainwave",
     "type" : "Design only",
     "github": "https://github.com/solo-fox/brainwave/",
-    "url" : "https://brainwave-solofox.vercel.app/",
     "description" : "Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.",
     "imagePreviewUrl": "https://raw.githubusercontent.com/solo-fox/brainwave/main/screenshots/14a.jpg",
     "screenshots" : [
@@ -29,7 +28,6 @@
     "name": "Travel App",
     "type" : "Design only",
     "github": "https://github.com/solo-fox/Travel/",
-    "url" : "https://travel-solofox.vercel.app/",
     "description" : "Travel App - Built with Next.js, TailwindCSS, and TypeScript, this landing page not only looks great but also serves as a hands-on project to reinforce one's understanding of these technologies.",
     "imagePreviewUrl": "https://raw.githubusercontent.com/solo-fox/Travel/main/screenshots/7.jpg",
     "screenshots" : [
@@ -51,9 +49,8 @@
     "name": "Homyz",
     "type" : "Design only",
     "github": "https://github.com/solo-fox/Homyz/",
-    "url" : "https://brainwave-solofox.vercel.app/",
     "imagePreviewUrl": "https://raw.githubusercontent.com/solo-fox/Homyz/main/screenshots/s5.jpeg",
-    "description" : " Homyz - a stunning Real Estate website using React, framer motion and vite",
+    "description" : "Homyz - a stunning Real Estate website using React, framer motion and vite",
     "screenshots" : [
       "https://raw.githubusercontent.com/solo-fox/Homyz/main/screenshots/s1.jpeg",
       "https://raw.githubusercontent.com/solo-fox/Homyz/main/screenshots/s2.jpeg",
@@ -72,7 +69,6 @@
     "name": "Yoom",
     "type" : "Fullstack",
     "github": "https://github.com/solo-fox/zoom-clone/",
-    "url" : "https://yoomcall.vercel.app/",
     "description" : "Yoom - Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.",
     "imagePreviewUrl": "https://raw.githubusercontent.com/solo-fox/zoom-clone/main/screenshots/12.jpg",
     "screenshots" : [
@@ -93,6 +89,26 @@
       "Clerk",
       "Shadcn",
       "getstream"
+    ]
+  },
+  {
+    "id" : 5,
+    "name": "LiveDocs",
+    "type" : "Fullstack",
+    "github": "https://github.com/solo-fox/LiveDocs/",
+    "description" : "Livedocs - Built with Next.js to handle the user interface, Liveblocks for real-time features and styled with TailwindCSS, LiveDocs is a clone of Goole Docs.",
+    "imagePreviewUrl": "https://raw.githubusercontent.com/solo-fox/LiveDocs/main/screenshots/1.jpg",
+    "screenshots" : [
+      "https://raw.githubusercontent.com/solo-fox/LiveDocs/main/screenshots/1.jpeg",
+      "https://raw.githubusercontent.com/solo-fox/LiveDocs/main/screenshots/2.jpeg",
+      "https://raw.githubusercontent.com/solo-fox/LiveDocs/main/screenshots/3.jpeg",
+      "https://raw.githubusercontent.com/solo-fox/LiveDocs/main/screenshots/4.jpeg"
+    ],
+    "techStack" : [
+      "React",
+      "liveblocks",
+      "Next.js",
+      "ShadCN"
     ]
   }
 ]
