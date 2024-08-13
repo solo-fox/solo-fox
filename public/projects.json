@@ -94,31 +94,5 @@
       "Shadcn",
       "getstream"
     ]
-  },
-  {
-    "id" : 5,
-    "name": "f. Blog",
-    "type" : "Fullstack",
-    "github": "https://github.com/solo-fox/fusionblog/",
-    "url" : "https://fusionblog.vercel.app/",
-    "description" : "f. Blog is a full-featured blog site built using React, Tailwind CSS, Styled Components, Firestore, and Firebase Authentication. This project aims to provide users with a seamless and intuitive platform for creating, sharing, and exploring blog content.",
-    "imagePreviewUrl": "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s15.jpg",
-    "screenshots" : [
-      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s1.jpg",
-      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s2.jpg",
-      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s3.jpg",
-      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s4.jpg",
-      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s5.jpg",
-      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s6.jpg",
-      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s7.jpg",
-      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s9.jpg",
-      "https://raw.githubusercontent.com/solo-fox/fusionblog/main/screenshots/s10.jpg"
-    ],
-    "techStack" : [
-      "React",
-      "Tailwindcss",
-      "Next.Js",
-      "Styled Components"
-    ]
   }
 ]
