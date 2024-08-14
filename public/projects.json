@@ -110,5 +110,30 @@
       "Next.js",
       "ShadCN"
     ]
+  },
+  {
+    "id" : 6,
+    "name": "CarePlus",
+    "type" : "Fullstack",
+    "github": "https://github.com/solo-fox/CarePlus/",
+    "description" : "CarePlus - A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using Next.js.",
+    "imagePreviewUrl": "https://raw.githubusercontent.com/solo-fox/CarePlus/main/screenshots/9.jpeg",
+    "screenshots" : [
+      "https://raw.githubusercontent.com/solo-fox/CarePlus/main/screenshots/1.jpeg",
+      "https://raw.githubusercontent.com/solo-fox/CarePlus/main/screenshots/2.jpeg",
+      "https://raw.githubusercontent.com/solo-fox/CarePlus/main/screenshots/3.jpeg",
+      "https://raw.githubusercontent.com/solo-fox/CarePlus/main/screenshots/4.jpeg",
+      "https://raw.githubusercontent.com/solo-fox/CarePlus/main/screenshots/5.jpeg",
+      "https://raw.githubusercontent.com/solo-fox/CarePlus/main/screenshots/6.jpeg",
+      "https://raw.githubusercontent.com/solo-fox/CarePlus/main/screenshots/7.jpeg",
+      "https://raw.githubusercontent.com/solo-fox/CarePlus/main/screenshots/8.jpeg",
+    ],
+    "techStack" : [
+      "React",
+      "Twillio",
+      "Next.js",
+      "Tailwindcss",
+      "Appwrite"
+    ]
   }
 ]
