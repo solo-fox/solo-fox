@@ -10,7 +10,7 @@ export default function SingleProjectPage() {
   // Convert id to a number, handling both array and non-numeric string cases
   const projectId = Array.isArray(id) ? NaN : Number(id);
 
-  if (isNaN(projectId) || projectId > 5 || projectId <= 0) {
+  if (isNaN(projectId) || projectId > 6 || projectId <= 0) {
     notFound();
     return null;
   }
