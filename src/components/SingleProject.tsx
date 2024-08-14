@@ -77,6 +77,8 @@ export default function SingleProject({ id }: { id: number }) {
               height={100}
               className="object-cover w-full h-full"
               src={screenshot}
+              unoptimized
+              priority
               alt={`${project.name} - ${screenshot}`}
             />
           </div>

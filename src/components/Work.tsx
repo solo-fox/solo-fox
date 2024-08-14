@@ -68,7 +68,7 @@ export default function Work() {
       ))}
       {projectImageUrl && (
         <div className="absolute projectImage w-3/4 sm:w-1/2 sm:h-1/2 h-1/4">
-          <Image width={100} height={100} src={projectImageUrl} className="w-full h-full object-cover" alt="Project Preview" />
+          <Image width={100} height={100} src={projectImageUrl} priority unoptimized className="w-full h-full object-cover" alt="Project Preview" />
         </div>
       )}
     </div>
